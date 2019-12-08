@@ -2,7 +2,7 @@
 .atom/
 .idea/
 .vscode/
-
+example/ios/Flutter/flutter_export_environment.sh
 .packages
 .pub/
 .dart_tool/

@@ -1,3 +1,5 @@
+android/.settings/
+example/android/.settings/
 android/.project
 example/android/.project
 .DS_Store

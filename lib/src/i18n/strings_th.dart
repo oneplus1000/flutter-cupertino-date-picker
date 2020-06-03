@@ -57,4 +57,22 @@ class _StringsTh extends _StringsI18n {
       "อา",
     ];
   }
+
+  @override
+  List<String> getMonthsShort() {
+    return [
+      "ม.ค.",
+      "ก.พ.",
+      "มี.ค.",
+      "เม.ย.",
+      "พ.ค.",
+      "มิ.ย.",
+      "ก.ค.",
+      "ส.ค.",
+      "ก.ย.",
+      "ต.ค.",
+      "พ.ย.",
+      "ธ.ค."
+    ];
+  }
 }
